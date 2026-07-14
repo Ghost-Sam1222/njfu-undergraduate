@@ -9,3 +9,57 @@
 # 临时文件
 *.tmp
 ~$*.docx
+
+# Windows / macOS 系统文件
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# 通用备份和日志
+*.bak
+*.Bak
+*.log
+*.Log
+*.backup
+*.Backup
+
+# Keil 构建产物和用户配置
+*.Opt
+*.opt
+*.uvopt
+*.uvoptx
+*.UVOPT
+*.UVOPTX
+*.uvguix.*
+Listings/
+Objects/
+DebugConfig/
+RTE/_Target_*/
+*.dep
+*.d
+*.o
+*.obj
+*.OBJ
+*.crf
+*.lst
+*.LST
+*.map
+*.MAP
+*.axf
+*.elf
+*.lnp
+*.LNP
+*.M51
+*.m51
+*.plg
+*.PLG
+
+# Proteus / Multisim 缓存、备份和工作区
+*.pdsbak
+*.DBK
+*.dbk
+*.PWI
+*.pwi
+*.workspace
+*Security copy*
+Project Backups/
