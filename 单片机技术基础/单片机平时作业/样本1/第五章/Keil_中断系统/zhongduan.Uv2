@@ -30,7 +30,7 @@ Options 1,0,0  // Target 'Target 1'
  OrgReg (ÿAtmel\)
  TgStat=0
  OutDir (.\)
- OutName (zhongduan_2450802110)
+ OutName (zhongduan)
  GenApp=1
  GenLib=0
  GenHex=1
